@@ -1,6 +1,11 @@
 package com.example;
 
+import ch.qos.logback.core.net.SyslogOutputStream;
+
 /* this is a short comment */
 public class test {
-  // exactement c un simple commentaire 
+	public void name() {
+	System.out.println("kkkkk");
+	}
+	
 }
